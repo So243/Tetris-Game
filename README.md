@@ -61,18 +61,7 @@ python main.py
 
 ---
 
-## 📂 Project Structure
 
-```
-tetris-game-2025/
-│-- main.py         # Main game loop
-│-- game.py         # Game logic and rendering
-│-- colors.py       # Color definitions
-│-- assets/         # (Optional) Sounds, images, GIFs
-│-- README.md       # Project documentation
-```
-
----
 
 ## 📜 License
 
