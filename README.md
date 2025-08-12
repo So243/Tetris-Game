@@ -11,7 +11,7 @@ Smooth gameplay, responsive controls, and clean, well-commented code — perfect
 ---
 
 ## 📸 Preview
-![Tetris Gameplay](assets/preview.gif)  
+![Tetris Gameplay](Preview.)  
 *(*Add your GIF or screenshot here*)*
 
 ---
